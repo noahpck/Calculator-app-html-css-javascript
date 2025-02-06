@@ -62,7 +62,7 @@ section {
   background-color: #505266;
 }
 
-@media (max-width: 235px) {
+@media (max-width: 400px) {
   .btn {
     height: 50px;
     width: 20px;
