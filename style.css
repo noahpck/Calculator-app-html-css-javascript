@@ -61,3 +61,11 @@ section {
 .dark:hover {
   background-color: #505266;
 }
+
+@media (max-width: 235px) {
+  .btn {
+    height: 50px;
+    width: 20px;
+    font-size: 20px;
+  }
+}
